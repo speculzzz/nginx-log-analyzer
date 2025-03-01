@@ -39,6 +39,7 @@ setup(
             "flake8>=3.9.0",
             "pytest>=6.0.0",
             "isort>=5.0.0",
+            "pre-commit>=2.17.0",
         ],
     },
     entry_points={
