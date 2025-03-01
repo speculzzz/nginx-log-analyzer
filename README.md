@@ -57,7 +57,7 @@ To run the application in a Docker container:
 The service will be available at http://localhost/report.
 
 ## Testing
- 
+
 Run the tests using pytest:
 
    ```bash
